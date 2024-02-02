@@ -1,5 +1,5 @@
     // Question link - https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/
-    // Difficulty - Easy but I made it difficult for myself, otherwise on my first approach I was doing right thing by sorting
+    // Difficulty - Easy but I made it difficult for myself, otherwise my first approach I was doing right thing by sorting
     // Date Attempted - 01 Feb 2024
 
 
