@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
+    - name: checkout
     - uses: actions/checkout@v3
     - name: Verify each JS File
       run: |
