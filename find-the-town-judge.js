@@ -2,6 +2,7 @@
 //     Difficulty:  Medium
 
 
+
 /**
  * @param {number} n
  * @param {number[][]} trust
