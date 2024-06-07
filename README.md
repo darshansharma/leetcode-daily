@@ -43,6 +43,10 @@ website: darshan.sh
 [![Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=darshansharma_)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <br>
-<br>  
+<br>
+
+## Important Questions For Interview
+
+1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 
